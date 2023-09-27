@@ -1,0 +1,13 @@
+login:
+  -
+    name: 小米账号登录
+    login:
+      username: 18342051835
+      password: 123456
+
+signin:
+  -
+    name: 小米账号注册
+    sign_in:
+      username: 18342051835
+      password: lzc970628

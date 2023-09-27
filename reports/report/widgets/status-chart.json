@@ -1,0 +1,1 @@
+[{"uid":"71d789978b34b153","name":"登录","time":{"start":1695619080234,"stop":1695619124243,"duration":44009},"status":"passed","severity":"normal"},{"uid":"af8b67b74ae55633","name":"注册","time":{"start":1695619124257,"stop":1695619196155,"duration":71898},"status":"broken","severity":"normal"}]
